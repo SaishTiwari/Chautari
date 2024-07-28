@@ -162,7 +162,7 @@ extension OnboardingView{
             Spacer()
             
             //  Text("Hello")
-            Image(systemName: "tree.fill")
+            Image("logo")
             
                 .resizable()
                 .scaledToFit()
